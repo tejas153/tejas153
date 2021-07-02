@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tejas
-- 👀 I’m interested in Data Analysis, Data Visualization and Advance Analytics
-- 🌱 I’m currently learning Advance Analytics
+- 👋 Hi, I’m Tejas. I am a Data Analyst with a great passion for data and love wrangling and exploring the data to find interesting patterns, solve business problems and provide actionable insights.
+- 👀 Experienced in Analysing and Visualing Data, using Machine Learning technqiues for prediction and classification with a Masters Degree in Business Analytics
+- 🌱 I’m currently working on Marketing Agency where I help clients by producing reports and dashboards using web analytics. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
