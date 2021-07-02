@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejas. I am an enthusiastic Data Analyst with a great passion for data. I love wrangling and exploring data to find interesting patterns, solve business problems and provide actionable insights.
-- 🎯 I have a Masters Degree in Business Analytics and a strong experience in Analysing, Visualizing Data, and using Machine Learning techniques for prediction and classification.
+- 🎯 I have a Masters Degree in Business Analytics and a strong experience in Data Analysis, Data Visualization and using Machine Learning techniques for prediction and classification.
 - 🌱 I’m currently working with a top digital marketing agency to provide the best reporting and data solutions for our clients.
 - 🧰 Skills:
     - Programming: Python, SQL, R, SAP ABAP
